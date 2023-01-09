@@ -2,7 +2,11 @@
 
 ## 🚀 About Me
 
-🎓 I am Jason Robock, a **Full Stack Developer** and a recent graduate from the University of Alberta's Computing Science Specialization program. 
+😄 Pronouns: He/Him
+🔭 I’m currently working on improving my skills
+🌱 I’m currently learning Rust!
+
+🎓 I'm Jason Robock, a **Full Stack Developer** and a recent graduate from the University of Alberta's Computing Science Specialization program. 
 
 I am really enthusiastic about learning new technology. In 2022, I learned **FastAPI**, **JUnit**, **Github Actions**, **CI/CD**, **ReportLab**, **Poetry**, and **React**.
 
