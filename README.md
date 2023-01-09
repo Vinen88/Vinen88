@@ -3,7 +3,9 @@
 ## 🚀 About Me
 
 😄 Pronouns: He/Him
+
 🔭 I’m currently working on improving my skills
+
 🌱 I’m currently learning Rust!
 
 🎓 I'm Jason Robock, a **Full Stack Developer** and a recent graduate from the University of Alberta's Computing Science Specialization program. 
