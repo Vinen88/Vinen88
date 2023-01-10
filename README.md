@@ -58,6 +58,10 @@ I am really enthusiastic about learning new technology. In 2022, I learned **Fas
 ![selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![jmeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=ApacheJMeter&logoColor=white)
 
+## 📈 Stats
+
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinen88&show_icons=true&bg_color=00000000&hide=stars)
+
 ## 🔗 Links
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]()
