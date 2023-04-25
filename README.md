@@ -69,7 +69,7 @@ I am really enthusiastic about learning new technology. In 2022, I learned **Fas
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vinen88)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/vinen88)
 
-## ❝Fun Quotes❞
+## 🗨️ ❝Fun Quotes❞
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 **Vinen88/Vinen88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
