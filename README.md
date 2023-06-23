@@ -60,7 +60,8 @@ I am really enthusiastic about learning new technology. In 2022, I learned **Fas
 
 ## 📈 Stats
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinen88&show_icons=true&bg_color=00000000&hide=stars)
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinen88&show_icons=truehide=stars&theme=react&layout=compact)
+![Jason' Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinen88&layout=compact&langs_count=8&theme=react)
 
 ## 🔗 Links
 
