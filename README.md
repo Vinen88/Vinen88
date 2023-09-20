@@ -76,7 +76,7 @@ I am really enthusiastic about learning new technology. In 2022, I learned **Fas
 
 ## 📈 Stats
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinen88&show_icons=true&theme=dracula&layout=compact)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinen88&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Jason' Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinen88&layout=compact&langs_count=8&theme=dracula)
 
 ## 🔗 Links
@@ -90,6 +90,7 @@ I am really enthusiastic about learning new technology. In 2022, I learned **Fas
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 **Vinen88/Vinen88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinen88&show_icons=true&theme=dracula&layout=compact)
 
 Here are some ideas to get you started:
 
