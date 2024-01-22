@@ -25,8 +25,6 @@ I am really enthusiastic about learning new technology. In 2022, I learned **Fas
 ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=Csharp&logoColor=white)
 ![perl](https://img.shields.io/badge/perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Back-End Development
 
