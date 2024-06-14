@@ -76,7 +76,6 @@ I am really enthusiastic about learning new technology. In 2022, I learned **Fas
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vinen88&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Jason' Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vinen88&layout=compact&langs_count=8&theme=dracula)
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinen88&show_icons=true&theme=dracula&layout=compact)
 
 ## 🔗 Links
 
