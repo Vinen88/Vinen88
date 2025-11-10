@@ -8,9 +8,7 @@
 
 🌱 I’m currently learning Rust!
 
-🎓 I'm Jason Robock, a **Full Stack Developer** and a recent graduate from the University of Alberta's Computing Science Specialization program. 
-
-I am really enthusiastic about learning new technology. In 2022, I learned **FastAPI**, **JUnit**, **Github Actions**, **CI/CD**, **ReportLab**, **Poetry**, and **React**.
+🎓 I'm Jason Robock, a **Full Stack Developer**. 
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **Building Custom Keyboards**, **Video Games**, **Electronics projects** to some silly ones like **linux UI customization**.
 
@@ -19,9 +17,9 @@ I am really enthusiastic about learning new technology. In 2022, I learned **Fas
 ### Languages
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![c](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=Csharp&logoColor=white)
 ![perl](https://img.shields.io/badge/perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
@@ -29,6 +27,7 @@ I am really enthusiastic about learning new technology. In 2022, I learned **Fas
 ### Back-End Development
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-AFD6E8?style=for-the-badge&logo=Flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -44,11 +43,7 @@ I am really enthusiastic about learning new technology. In 2022, I learned **Fas
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
-### Backend as a Service (BaaS)
-
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Design Tools
 
